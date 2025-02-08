@@ -10,7 +10,7 @@ This project is a simple counter application. It allows you to increment, decrem
 - Display the current counter value
 
 ## Screenshot
-![Project Screenshot](URL_OF_YOUR_IMAGE)
+![Project Screenshot](./images/screenshot.png)
 
 ## Installation
 To install and run this project, follow these steps:
