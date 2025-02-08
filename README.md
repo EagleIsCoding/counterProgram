@@ -11,10 +11,3 @@ This project is a simple counter application. It allows you to increment, decrem
 
 ## Screenshot
 ![Project Screenshot](./images/screenshot.png)
-
-## Installation
-To install and run this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/EagleIsCoding/counterProgram.git
