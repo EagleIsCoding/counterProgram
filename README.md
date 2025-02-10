@@ -21,5 +21,5 @@ Elle permet d'incrémenter, de décrémenter et de réinitialiser un compteur.
 - Réinitialiser le compteur à 0 
 - Afficher la valeur du compteur 
 
-## Screenshot
+## Screenshot | Aperçu
 ![Project Screenshot](./images/screenshot.png)
